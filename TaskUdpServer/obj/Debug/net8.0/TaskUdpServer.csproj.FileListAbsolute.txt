@@ -1,0 +1,29 @@
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.exe
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.deps.json
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.runtimeconfig.json
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.dll
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.pdb
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.AssemblyInfoInputs.cache
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.AssemblyInfo.cs
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.csproj.CoreCompileInputs.cache
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.sourcelink.json
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.dll
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\refint\TaskUdpServer.dll
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.pdb
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.genruntimeconfig.cache
+C:\Users\musay_yy33\Desktop\FBAS_Nov_23_7_az_SP_NP\Network Programming\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\ref\TaskUdpServer.dll
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.exe
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.deps.json
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.runtimeconfig.json
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.dll
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\bin\Debug\net8.0\TaskUdpServer.pdb
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.dll
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\refint\TaskUdpServer.dll
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.pdb
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\TaskUdpServer.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\UdpFileTransferTask\TaskUdpServer\obj\Debug\net8.0\ref\TaskUdpServer.dll
